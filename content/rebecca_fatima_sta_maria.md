@@ -12,6 +12,8 @@ skillset1: stakeholder management
 skillset2: 
 skillset3: 
 skillset4:
+current_position: APEC Secretariat (ED), RHB Bank, Sunway Bhd, Institute for Democracy and Economic Affairs, MyKasih, EcoWorld International, Hartalega
+previous_position: MITI, EU-Malaysia Chamber of Commerce and Industry
 comment: No direct relationship with T&M team. Potential bandwidth issues (7 board memberships, 4 PLCs).
 slug: https://hartalega.com.my/team/tan-sri-datuk-dr-rebecca-fatima-sta-maria/
 ---

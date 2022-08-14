@@ -12,6 +12,8 @@ skillset1: restructuring
 skillset2: strategy
 skillset3: 
 skillset4:
+current_position: Heineken Msia, Sunway Bhd, Jeffrey Cheah Foundation
+previous_position: PEMANDU (CEO), MAS (CEO), Shell
 comment: No direct relationship with T&M Team, relationship via TAZ/MD. Potential capacity (3 board memberships, of which 2 are PLCs).
 slug: https://pemandu.org/leadership/dato-sri-idris-jala/
 ---

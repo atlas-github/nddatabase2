@@ -12,6 +12,8 @@ skillset1: restructuring
 skillset2: 
 skillset3:
 skillset4:
+current_position: MISC, Sime Darby Property, PNB, Cradle Fund, Penjana Kapital (Investment Panel), BCG (Senior Advisor)
+previous_position: BCG
 comment: No direct relationship with T&M team currently. Significant consulting experience. Can empathise with management as an ex-CEO.
 slug: https://misc.com.my/about/datin-norazah-mohamed-razali/
 ---

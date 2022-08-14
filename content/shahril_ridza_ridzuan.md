@@ -12,6 +12,8 @@ skillset1: financial management
 skillset2: corporate management
 skillset3: stakeholder management
 skillset4: 
+current_position: Axiata, MAB, MAGB
+previous_position: KNB (MD), EPF (CEO), MRCB (MD)
 comment: Well respected in industry; Potential capacity.
 slug: https://www.sidc.com.my/about-the-speaker-tan-sri-shahril-ridza-ridzuan/
 ---

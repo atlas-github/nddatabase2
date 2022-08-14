@@ -12,6 +12,8 @@ skillset1: accounting
 skillset2: financial management
 skillset3: corporate management
 skillset4: stakeholder management
+current_position: International Centre for Education in Islamic Finance, Universiti Teknologi Malaysia (UTM), Lembaga Tabung Haji
+previous_position: Khazanah (MD), Axiata, MAS, MAB, CIMB
 comment: Well respected in industry; Potential capacity.
 slug: https://azman-mokhtar.my/
 ---

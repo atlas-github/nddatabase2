@@ -12,6 +12,8 @@ skillset1: financial management
 skillset2: corporate management
 skillset3: stakeholder management
 skillset4: 
+current_position: IHH, Prudential BSN Takaful, MavCap, Bumi Armada, Sime Darby Plantation, MAS, MAGB
+previous_position: EPF (CEO), Iclif, BNM, DiGi, Maybank, Astro
 comment: No direct relationship with T&M team currently. Potential bandwidth issues (7 board memberships, 4 PLCs).
 slug: https://www.linkedin.com/in/alizakri-alias/
 ---

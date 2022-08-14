@@ -75,7 +75,7 @@
               :key="post.slug"
               class="hover:scale-[1.03] rounded-lg p-2 bg-cover bg-white"
             >
-              <div class="flex items-center mb-2">
+              <div class="flex items-center flex-wrap mb-2">
                 <img
                   :src="post.profile_pic"
                   class="h-14 w-14 rounded-full mr-2"
@@ -94,12 +94,19 @@
                 </h2>
               </div>
               <span>
-                <p class="ml-1">
+                <p class="ml-1 mb-1">
                   Education:
                   {{ post.education }}
                 </p>
-                <br />
-                <p class="ml-1">
+                <p class="ml-1 mb-1 font-semibold">
+                  Current position(s):
+                  {{ post.current_position }}
+                </p>
+                <p class="ml-1 mb-1">
+                  Previous position(s):
+                  {{ post.previous_position }}
+                </p>
+                <p class="ml-1 mb-1 font-semibold">
                   Comment:
                   {{ post.comment }}
                 </p>

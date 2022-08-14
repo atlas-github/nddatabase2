@@ -12,6 +12,8 @@ skillset1: operations
 skillset2: corporate management
 skillset3: 
 skillset4:
+current_position: MAB, MAGB, DRB Hicom, Gas Msia, Razak School of Government, IIUM
+previous_position: Petronas (CEO), ExxonMobil, Universiti Teknologi Petronas
 comment: No direct relationship with T&M Team, relationship with TAZ/MD. Has declined other KNB OpCos previously.
 slug: https://www.linkedin.com/in/wan-zulkiflee-4338743/
 ---

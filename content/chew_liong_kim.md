@@ -12,6 +12,8 @@ skillset1: operations
 skillset2: accounting
 skillset3: strategy
 skillset4:
+current_position: Shakeup Online, ASEAN Advisory Pte Ltd, CLK Advisors, MISC, ZICO Capital, ZICO Holdings Inc, Roland Berger (Senior Advisor)
+previous_position: MCMC, Maybank IB (MD), BinaFikir (MD), Dataprep Holdings (CEO), Arthur Andersen (Partner)
 comment: No direct relationship with T&M team currently. Strong and diverse experience but potential bandwidth issues.
 slug: https://www.linkedin.com/in/chew-liong-kim-56501826/
 ---

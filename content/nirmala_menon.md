@@ -12,6 +12,8 @@ skillset1: operations
 skillset2: 
 skillset3: 
 skillset4:
+current_position: Bank Negara, Sime Darby, Nestle Malaysia, Aviva Singlife, Amanat Lebuhraya Rakyat
+previous_position: KNB, MetLife Asia Pacific, ING Malaysia (CEO)
 comment: KNB Board alumni, relationship via SMT. Insurance is main experience. Good and thorough, forms and holds her own views, can empathise with management as an ex-CEO (source is TAZ).
 slug: https://www.linkedin.com/in/nirmala-menon-82a57b30/
 ---
