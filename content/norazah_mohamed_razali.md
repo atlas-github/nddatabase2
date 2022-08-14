@@ -12,6 +12,8 @@ skillset1: restructuring
 skillset2: 
 skillset3:
 skillset4:
-comment: No direct relationship with T&M team currently. Significant consulting experience. Can empathise with mgmt. as an ex-CEO.
+comment: No direct relationship with T&M team currently. Significant consulting experience. Can empathise with management as an ex-CEO.
 slug: https://misc.com.my/about/datin-norazah-mohamed-razali/
 ---
+
+norazah mohamed razali female malaysian malay mba the management school imperial college london llb honors international islamic university malaysia restructuring no direct relationship with t&m team currently significant consulting experience can emphatize with management as an ex-CEO

@@ -15,3 +15,5 @@ skillset4:
 comment: Well respected in industry; Potential capacity.
 slug: https://www.sidc.com.my/about-the-speaker-tan-sri-shahril-ridza-ridzuan/
 ---
+
+shahril ridza ridzuan male malaysian chinese masters in arts first class cambridge university bachelor in civil law first class oxford university financial management corporate management stakeholder management well respected in industry potential capacity

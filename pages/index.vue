@@ -33,6 +33,21 @@
                 hover:bg-[#312D8F]
               "
             >
+              All
+            </button>
+            <button
+              type="button"
+              class="
+                bg-gray-500
+                rounded-full
+                text-white
+                font-semibold
+                py-1
+                px-4
+                mx-1
+                hover:bg-[#312D8F]
+              "
+            >
               Male
             </button>
             <button
@@ -49,36 +64,6 @@
               "
             >
               Female
-            </button>
-            <button
-              type="button"
-              class="
-                bg-gray-500
-                rounded-full
-                text-white
-                font-semibold
-                py-1
-                px-4
-                mx-1
-                hover:bg-[#312D8F]
-              "
-            >
-              Malaysian
-            </button>
-            <button
-              type="button"
-              class="
-                bg-gray-500
-                rounded-full
-                text-white
-                font-semibold
-                py-1
-                px-4
-                mx-1
-                hover:bg-[#312D8F]
-              "
-            >
-              Foreign
             </button>
           </section>
           <section class="space-y-4">

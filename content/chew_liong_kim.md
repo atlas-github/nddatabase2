@@ -15,3 +15,5 @@ skillset4:
 comment: No direct relationship with T&M team currently. Strong and diverse experience but potential bandwidth issues.
 slug: https://www.linkedin.com/in/chew-liong-kim-56501826/
 ---
+
+chew liong kim malaysian male chinese operations accounting strategy no direct relationship with t&m team currently strong and diverse experience but potential bandwidth issues bachelor of commerce in accountancy university of auckland new zealand 

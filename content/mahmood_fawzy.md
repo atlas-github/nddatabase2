@@ -12,6 +12,8 @@ skillset1: risk management
 skillset2: operations
 skillset3: strategy & governance
 skillset4:
-comment: Fairly strong character. Potential capacity. Experienced Board member with seniority. Based on TM Directorship, wants to do the right thing, can discuss disagreements (sources aree TAZ, OKH). 
+comment: Fairly strong character. Potential capacity. Experienced Board member with seniority. Based on TM Directorship, wants to do the right thing, can discuss disagreements (sources are TAZ, OKH). 
 slug: https://tunkumahmoodfawzy.com/?page_id=133
 ---
+
+mahmood fawzy male malaysian malay ba business studies polytechnic of central london mba university of warwick risk management operations strategy governance fairly strong character potential capacity experienced board member with seniority based on tm directorship wants to do the right thing can discuss disagreements sources are TAZ OKH
