@@ -6,8 +6,8 @@ year_of_birth: 1959
 nationality: Malaysian
 country_of_residence: Malaysia
 ethnicity: Malay
-description: Bachelor’s Degree in Development Studies and Management (University Sains Malaysia), Master’s Degree in Industrial Relations (University of Warwick) Restructuring, Strategy
-education: Bachelor’s Degree in Development Studies and Management (University Sains Malaysia), Master’s Degree in Industrial Relations (University of Warwick)
+description: Bachelor’s Degree in Development Studies and Management (Universiti Sains Malaysia), Master’s Degree in Industrial Relations (University of Warwick) Restructuring, Strategy
+education: Bachelor’s Degree in Development Studies and Management (USM), Master’s Degree in Industrial Relations (University of Warwick)
 skillset1: restructuring
 skillset2: strategy
 skillset3: 

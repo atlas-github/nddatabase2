@@ -81,23 +81,26 @@
                   class="h-14 w-14 rounded-full mr-2"
                   alt=""
                 />
-                <h2
-                  class="
-                    text-lg text-blue-700
-                    hover:text-blue-800
-                    font-semibold
-                  "
-                >
-                  <a :href="post.slug" target="_blank" class="hover:underline">
-                    {{ post.title }}
-                  </a>
-                </h2>
+                <div class="grid grid-rows-2">
+                  <h2
+                    class="
+                      text-lg text-blue-700
+                      hover:text-blue-800
+                      font-semibold
+                    "
+                  >
+                    <a
+                      :href="post.slug"
+                      target="_blank"
+                      class="hover:underline"
+                    >
+                      {{ post.title }}
+                    </a>
+                  </h2>
+                  <p class="text-sm">{{ post.education }}</p>
+                </div>
               </div>
               <span>
-                <p class="ml-1 mb-1">
-                  Education:
-                  {{ post.education }}
-                </p>
                 <p class="ml-1 mb-1 font-semibold">
                   Current position(s):
                   {{ post.current_position }}
