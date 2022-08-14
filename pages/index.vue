@@ -159,6 +159,33 @@
           </section>
         </div>
       </main>
+      <div class="email-button">
+        <button
+          class="
+            p-0
+            w-12
+            h-12
+            rounded-full
+            bg-white
+            border-[2px] border-[#0072C6]
+            hover:shadow-2xl hover:scale-[1.1]
+            transition
+            ease-in
+            duration-200
+            focus:outline-none
+            fixed
+            md:bottom-15 md:right-15
+            bottom-14
+            right-10
+          "
+        >
+          <a
+            href="mailto:farrah.abidin@khazanah.com.my?cc=sukri.karim@khazanah.com.my&amp;subject=ND Feedback&amp;body=Hi Farrah,"
+            title="Email us"
+            ><img src="/outlook.png" alt="" class="h-6 mx-auto"
+          /></a>
+        </button>
+      </div>
     </div>
   </div>
 </template>
