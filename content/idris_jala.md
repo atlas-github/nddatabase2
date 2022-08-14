@@ -16,4 +16,4 @@ comment: No direct relationship with T&M Team, relationship via TAZ/MD. Potentia
 slug: https://pemandu.org/leadership/dato-sri-idris-jala/
 ---
 
-idris jala male malaysian malay bachelor degree in development studies and management university sains malaysia master degree in industrial relations university of warwick restructuring strategy no direct relationship with t&m team relationship via TAZ MD potential capacity
+idris jala [male] malaysian malay bachelor degree in development studies and management university sains malaysia master degree in industrial relations university of warwick restructuring strategy no direct relationship with t&m team relationship via TAZ MD potential capacity

@@ -16,4 +16,4 @@ comment: No direct relationship with T&M team currently. Potential bandwidth iss
 slug: https://www.linkedin.com/in/alizakri-alias/
 ---
 
-alizakri bin raja muhammad alias male malaysian malay mba cornell university bachelor of law llb king college university of london financial management corporate management stakeholder management no direct relationship with t&m team currently potential bandwidth issues
+alizakri bin raja muhammad alias [male] malaysian malay mba cornell university bachelor of law llb king college university of london financial management corporate management stakeholder management no direct relationship with t&m team currently potential bandwidth issues

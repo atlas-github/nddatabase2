@@ -16,4 +16,4 @@ comment: No direct relationship with T&M Team, relationship with TAZ/MD. Has dec
 slug: https://www.linkedin.com/in/wan-zulkiflee-4338743/
 ---
 
-wan zulkiflee female malaysian malay bachelor degree in chemical engineering university of adelaide south australia operations corporate management no direct relationship with t&m team relationship with TAZ MD has declined other knbopcos previously
+wan zulkiflee [male] malaysian malay bachelor degree in chemical engineering university of adelaide south australia operations corporate management no direct relationship with t&m team relationship with TAZ MD has declined other knbopcos previously

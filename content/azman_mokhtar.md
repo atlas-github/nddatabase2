@@ -16,4 +16,4 @@ comment: Well respected in industry; Potential capacity.
 slug: https://azman-mokhtar.my/
 ---
 
-azman mokhtar male malaysian malay m phil in development studies darwin college cambridge university diploma in islamic studies iium accounting financial management corporate management stakeholder management well respected in industry potential capacity
+azman mokhtar [male] malaysian malay m phil in development studies darwin college cambridge university diploma in islamic studies iium accounting financial management corporate management stakeholder management well respected in industry potential capacity

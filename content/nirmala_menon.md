@@ -16,4 +16,4 @@ comment: KNB Board alumni, relationship via SMT. Insurance is main experience. G
 slug: https://www.linkedin.com/in/nirmala-menon-82a57b30/
 ---
 
-nirmala menon female malaysian indian degree in medicine university of mysore india knb board alumni relationship via smt insurance is main experience good and thorough forms and holds her own views can emphatise with management as an ex-CEO source is TAZ operations
+nirmala menon [female] malaysian indian degree in medicine university of mysore india knb board alumni relationship via smt insurance is main experience good and thorough forms and holds her own views can emphatise with management as an ex-CEO source is TAZ operations

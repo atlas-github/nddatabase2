@@ -16,4 +16,4 @@ comment: No direct relationship with T&M team. Potential bandwidth issues (7 boa
 slug: https://hartalega.com.my/team/tan-sri-datuk-dr-rebecca-fatima-sta-maria/
 ---
 
-tan sri rebecca fatima sta maria female malaysian malay stakeholder management no direct relationship withh t&m team potential bandwidth issues
+tan sri rebecca fatima sta maria [female] malaysian malay stakeholder management no direct relationship withh t&m team potential bandwidth issues

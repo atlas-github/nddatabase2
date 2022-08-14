@@ -16,4 +16,4 @@ comment: No direct relationship with T&M team currently. Significant consulting 
 slug: https://misc.com.my/about/datin-norazah-mohamed-razali/
 ---
 
-norazah mohamed razali female malaysian malay mba the management school imperial college london llb honors international islamic university malaysia restructuring no direct relationship with t&m team currently significant consulting experience can emphatize with management as an ex-CEO
+norazah mohamed razali [female] malaysian malay mba the management school imperial college london llb honors international islamic university malaysia restructuring no direct relationship with t&m team currently significant consulting experience can emphatize with management as an ex-CEO

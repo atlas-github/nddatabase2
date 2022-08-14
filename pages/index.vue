@@ -15,57 +15,60 @@
                 v-model="query"
                 class="px-3 py-2 shadow border border-gray-200 my-3 rounded-lg"
                 type="text"
-                placeholder="shahril ridza corporate management"
+                placeholder="corporate management [male] malay"
               />
             </form>
           </section>
-          <section class="mb-3 ml-2">
-            <button
-              type="button"
-              class="
-                bg-gray-500
-                rounded-full
-                text-white
-                font-semibold
-                py-1
-                px-4
-                mx-1
-                hover:bg-[#312D8F]
-              "
-            >
-              All
-            </button>
-            <button
-              type="button"
-              class="
-                bg-gray-500
-                rounded-full
-                text-white
-                font-semibold
-                py-1
-                px-4
-                mx-1
-                hover:bg-[#312D8F]
-              "
-            >
-              Male
-            </button>
-            <button
-              type="button"
-              class="
-                bg-gray-500
-                rounded-full
-                text-white
-                font-semibold
-                py-1
-                px-4
-                mx-1
-                hover:bg-[#312D8F]
-              "
-            >
-              Female
-            </button>
-          </section>
+          <!-- buttons are not working yet -->
+          <div v-if="false">
+            <section class="mb-3 ml-2">
+              <button
+                type="button"
+                class="
+                  bg-gray-500
+                  rounded-full
+                  text-white
+                  font-semibold
+                  py-1
+                  px-4
+                  mx-1
+                  hover:bg-[#312D8F]
+                "
+              >
+                All
+              </button>
+              <button
+                type="button"
+                class="
+                  bg-gray-500
+                  rounded-full
+                  text-white
+                  font-semibold
+                  py-1
+                  px-4
+                  mx-1
+                  hover:bg-[#312D8F]
+                "
+              >
+                Male
+              </button>
+              <button
+                type="button"
+                class="
+                  bg-gray-500
+                  rounded-full
+                  text-white
+                  font-semibold
+                  py-1
+                  px-4
+                  mx-1
+                  hover:bg-[#312D8F]
+                "
+              >
+                Female
+              </button>
+            </section>
+          </div>
           <section class="space-y-4">
             <article
               v-for="post of posts"
