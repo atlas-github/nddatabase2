@@ -94,7 +94,7 @@
                       target="_blank"
                       class="hover:underline"
                     >
-                      {{ post.title }}
+                      {{ post.name }}
                     </a>
                   </h2>
                   <p class="text-sm">{{ post.education }}</p>
