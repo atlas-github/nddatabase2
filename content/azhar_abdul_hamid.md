@@ -1,6 +1,6 @@
 ---
 name: Datuk Azhar Abdul Hamid
-profile_pic: http://www.msmsugar.com/sites/default/files/profile/corporate-profile/board_of_directors/azhar_abdul_hamid.jpg
+profile_pic: https://1.bp.blogspot.com/-VJUmL22KOWg/U4h3BspTd-I/AAAAAAAAEw0/m30j837HHP0/s1600/MT-DatoAzharAbdul.jpg
 year_of_birth: 1961
 gender: Male
 nationality: Malaysian 
