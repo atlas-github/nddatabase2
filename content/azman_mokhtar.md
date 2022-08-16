@@ -23,4 +23,4 @@ comment: Well respected in industry; Potential capacity.
 slug: https://azman-mokhtar.my/
 ---
 
-azman mokhtar [male] male malaysian malay development studies darwin college cambridge university diploma in islamic studies international centre for education in islamic finance, universiti teknologi malaysia lembaga tabung haji khazanah axiata mas mab cimb investments telco banking airlines accounting financial management corporate management stakeholder management stakeholder management well respected in industry potential capacity
+azman mokhtar [male] malaysian malay development studies darwin college cambridge university diploma in islamic studies international centre for education in islamic finance, universiti teknologi malaysia lembaga tabung haji khazanah axiata mas mab cimb investments telco banking airlines accounting financial management corporate management stakeholder management stakeholder management well respected in industry potential capacity
