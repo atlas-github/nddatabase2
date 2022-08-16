@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: No
 name_of_investee_co: N.A.
 asset_class: N.A.
-education: Qualified Accountant and is a fellow of the Association of Chartered Certified Accountants (UK), Member of the Malaysian Institute of Accountants (MIA)"
+education: Qualified Accountant and is a fellow of the Association of Chartered Certified Accountants (UK), Member of the Malaysian Institute of Accountants (MIA)
 professional_qualification: Association of Chartered Certified Accountants
 professional_membership: Malaysian Institute of Accountants
 current_position: Hume Cement, Icon Offshore
