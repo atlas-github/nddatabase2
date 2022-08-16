@@ -23,4 +23,4 @@ comment: No direct relationship with T&M team. Commercial, key strength is indus
 slug: https://klse.i3investor.com/web/corporatefigure/detail/AC_17885_2329504899?id=5347-6901-3395850919
 ---
 
-etc
+roslina zainal [female] malaysian malay malaysia degree in electrical engineering lakehead university canada mba university of new england australia tnb smeling corporation kri senior fellow uniten energy commission tnb sapura energy power energy operations no direct relationship with t&m team commercial key strength is industry regulatory kettha strong engagement skills good relationship with knb source is amran
