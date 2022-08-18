@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: No
 name_of_investee_co: N.A.
 asset_class: N.A.
-education: Bachelor of Science and Master of Science in Mathematics (Illinois State University), MBA (MIT)"
+education: Bachelor of Science and Master of Science in Mathematics (Illinois State University), MBA (MIT)
 professional_qualification: N.A. 
 professional_membership: N.A.
 current_position: VADS, TM, KPJ Healthcare, Touch n Go, Findit Services, Tabung Haji investment panel
