@@ -1,6 +1,6 @@
 ---
 name: Shahin Farouque Bin Jammal Ahmad
-profile_pic: https://www.umw.com.my/documents/20143/0/Shahin+Faroque2-03.png/aaceb24b-3f43-3ee0-3e5a-ca035543d00a?t=1656895383874
+profile_pic: https://www.pnb.com.my/img/Deskstop/02_Our_Story/Leadership/LeadershipTeam/shahin.png
 year_of_birth: N.A.
 gender: Male
 nationality: Malaysian 
