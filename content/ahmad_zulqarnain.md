@@ -1,6 +1,6 @@
 ---
 name: Ahmad Zulqarnain Bin Che Onn
-profile_pic: https://berita.mcoba.org/wp-content/uploads/2020/06/Ahmad-Zulqarnain-Onn-mckk.jpg
+profile_pic: https://apicms.thestar.com.my/uploads/images/2020/06/30/738497.JPG
 year_of_birth: N.A.
 gender: Male
 nationality: Malaysian 
