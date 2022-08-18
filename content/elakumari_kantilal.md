@@ -1,6 +1,6 @@
 ---
 name: Elakumari Kantilal
-profile_pic: http://www.uembuilders.com/wp-content/uploads/2014/11/Pn.Elakumari.jpg
+profile_pic: https://www.danajamin.com/wp-content/uploads/2021/06/BOD_Elakumari-Kantilal.jpg
 year_of_birth: 1957
 gender: Female
 nationality: Malaysian
