@@ -1,7 +1,7 @@
 ---
 name: Azri Bin Zaharuddin
 profile_pic: https://www.drb-hicom.com/wp-content/uploads/2018/10/Azri_web.jpg
-year_of_birth: 
+year_of_birth: N.A.
 gender: Male
 nationality: Malaysian
 ethnicity: Malay
