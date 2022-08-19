@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: No
 name_of_investee_co: N.A.
 asset_class: N.A.
-education: Master of Business Administration - Sloan Fellows Program, MIT Sloan School of Management, BA, Accounting and Finance, University of Essex
+education: MBA - Sloan Fellows Program, MIT Sloan School of Management, BA, Accounting and Finance, University of Essex
 professional_qualification: N.A.
 professional_membership: N.A.
 current_position: Head, Investment Banking Coverage & Advisory at BNP Paribas Malaysia

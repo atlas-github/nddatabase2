@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: No
 name_of_investee_co: N.A.
 asset_class: N.A.
-education: Masters in Business Administration under the MIT Sloan Fellows programme at the Massachusetts Institute of Technology, 2018 class of The Aspen Finance Leaders Fellowship, Bachelor of Commerce degree in Accounting and Finance from Macquarie University, Australia
+education: MBA (MIT Sloan Fellows), The Aspen Finance Leaders Fellowship (2018), Bachelor of Commerce, Accounting & Finance (Macquarie Univ.)
 professional_qualification: N.A.
 professional_membership: N.A.
 current_position: Managing Director, Global Fund of Funds, Guoline Alternative Investments Advisory (Gaia)

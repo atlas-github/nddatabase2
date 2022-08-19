@@ -15,9 +15,9 @@ professional_membership: N.A.
 current_position: Deustche Malaysia, Hong Leong AM, FSPB (Financial Services Professional Board)
 previous_position: Hong Leong MSIG Takaful, TM, MAHB, Pos Malaysia, Ethos Capital One, SapuraKencana, VADS
 industry_of_previous_position: Telco, Finance, Oil and Gas
-skillset1: Risk Management
-skillset2: Operations
-skillset3: Strategy & Governance
+skillset1: risk management
+skillset2: operations
+skillset3: strategy & governance
 skillset4: 
 comment: Fairly strong character. Potential capacity. Experienced Board member with seniority. Based on TM Directorship, wants to do the right thing, can discuss disagreements (sources are TAZ, OKH). 
 slug: https://tunkumahmoodfawzy.com/?page_id=133

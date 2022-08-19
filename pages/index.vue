@@ -1,8 +1,6 @@
 <template>
   <div class="bg-cover bg-gray-100 font-roboto">
-    <div
-      class="max-w-3xl max-w-5xl min-h-screen flex justify-center mx-auto py-5"
-    >
+    <div class="max-w-[90%] min-h-screen flex justify-center md:mx-auto py-5">
       <main class="w-full">
         <div class="bg-[#479900] bg-cover p-1 rounded-lg text-white">
           <h1 class="text-2xl font-semibold m-1">Nominee Director Database</h1>
@@ -101,8 +99,8 @@
                 </div>
               </div>
               <span>
-                <h6 class="flex justify-start items-center mb-1 ml-1">
-                  Current ND at:
+                <h6 class="flex justify-start items-center ml-1 mb-1">
+                  Current ND:
                   <p
                     class="
                       bg-blue-700
@@ -111,10 +109,23 @@
                       font-semibold
                       py-1
                       px-4
-                      mx-1
+                      mx-2
                     "
                   >
-                    {{ post.name_of_investee_co }} | {{ post.asset_class }}
+                    {{ post.name_of_investee_co }}
+                  </p>
+                  <p
+                    class="
+                      bg-white
+                      rounded-full
+                      text-blue-700
+                      font-semibold
+                      border-2 border-blue-700
+                      py-1
+                      px-4
+                    "
+                  >
+                    {{ post.asset_class }}
                   </p>
                 </h6>
                 <p class="ml-1 mb-1 font-semibold">
