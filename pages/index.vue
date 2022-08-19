@@ -101,6 +101,22 @@
                 </div>
               </div>
               <span>
+                <h6 class="flex justify-start items-center mb-1 ml-1">
+                  Current ND at:
+                  <p
+                    class="
+                      bg-blue-700
+                      rounded-full
+                      text-white
+                      font-semibold
+                      py-1
+                      px-4
+                      mx-1
+                    "
+                  >
+                    {{ post.name_of_investee_co }} | {{ post.asset_class }}
+                  </p>
+                </h6>
                 <p class="ml-1 mb-1 font-semibold">
                   Current position(s):
                   {{ post.current_position }}

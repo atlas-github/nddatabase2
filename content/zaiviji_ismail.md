@@ -7,7 +7,7 @@ nationality: Malaysian
 ethnicity: Malay
 country_of_residence: Malaysia 
 current_khazanah_md: Yes
-name_of_investee_co: (i) Cement Industries of Malaysia (ii) Malaysia Aviation Group Berhad (iii) Malaysia Airlines Berhad
+name_of_investee_co: Cement Industries of Malaysia, Malaysia Aviation Group Berhad, Malaysia Airlines Berhad
 asset_class: Infrastructure & Airlines
 education: MBA, Cranfield University 
 professional_qualification: Graduate Member of the Australian Institute of Company Directors
