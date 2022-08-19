@@ -80,21 +80,36 @@
                   alt=""
                 />
                 <div class="grid grid-rows-2">
-                  <h2
-                    class="
-                      text-lg text-blue-700
-                      hover:text-blue-800
-                      font-semibold
-                    "
-                  >
-                    <a
-                      :href="post.slug"
-                      target="_blank"
-                      class="hover:underline"
+                  <div class="flex justify-start items-center">
+                    <h2
+                      class="
+                        text-lg text-blue-700
+                        hover:text-blue-800
+                        font-semibold
+                      "
                     >
-                      {{ post.name }}
-                    </a>
-                  </h2>
+                      <a
+                        :href="post.slug"
+                        target="_blank"
+                        class="hover:underline"
+                      >
+                        {{ post.name }}
+                      </a>
+                    </h2>
+                    <h5
+                      class="
+                        bg-gray-300
+                        rounded-full
+                        text-white text-xs
+                        font-semibold
+                        py-1
+                        px-2
+                        mx-2
+                      "
+                    >
+                      Birth year: {{ post.year_of_birth }}
+                    </h5>
+                  </div>
                   <p class="text-sm">{{ post.education }}</p>
                 </div>
               </div>

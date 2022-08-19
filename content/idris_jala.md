@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: No
 name_of_investee_co: N.A.
 asset_class: N.A.
-education: Bachelor’s Degree in Development Studies and Management (Universiti Sains Malaysia), Master’s Degree in Industrial Relations (University of Warwick)
+education: Bachelor’s Degree in Development Studies and Management (USM), Master’s Degree in Industrial Relations (University of Warwick)
 professional_qualification: N.A.
 professional_membership: N.A.
 current_position: Heineken Msia, Sunway Bhd, Jeffrey Cheah Foundation
