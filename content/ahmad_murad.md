@@ -13,7 +13,7 @@ education: B. Engineering (Mechanical) (Liverpool University, UK) 1983, 1st Clas
 professional_qualification: N.A.
 professional_membership: N.A.
 current_position: Independent Director 
-previous_position: 2015-2020 COO of Oman LNG L.L.C - JV between Oman Gov and other parties, 2009-2014, Executive Vice President of SASREF - 50:50 JV between Saudi Aramco and Shell (Saudi Arabia), 2004-2009 Managing Director at Shell Refining Company 
+previous_position: 2015-2020 COO of Oman LNG L.L.C - JV between Oman Gov and other parties, 2009-2014 Executive Vice President of SASREF - 50:50 JV between Saudi Aramco and Shell (Saudi Arabia), 2004-2009 Managing Director at Shell Refining Company 
 industry_of_previous_position: Oil & Gas or Petrochemical Industries
 skillset1: operations
 skillset2: human resources

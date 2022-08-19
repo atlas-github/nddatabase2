@@ -19,7 +19,7 @@ skillset1: governance
 skillset2: strategy consulting
 skillset3: principal investing knowledge
 skillset4: 
-comment: From Team's discussion with the SLM CEO, Raymond Lew,Tunku Ali’s contribution to the board has lacked depth. Tunku Ali is seen to be able to bring value in other ways through his position, but has not managed to capitalise on this for SLM to-date.
+comment: From Team's discussion with the SLM CEO, Raymond Lew, Tunku Ali’s contribution to the board has lacked depth. Tunku Ali is seen to be able to bring value in other ways through his position, but has not managed to capitalise on this for SLM to-date.
 slug: https://www.sunlifemalaysia.com/about-us/leadership/board-of-directors/y-a-m-tunku-ali-redhauddin-ibni-tuanku-muhriz/
 ---
 

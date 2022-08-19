@@ -12,8 +12,8 @@ asset_class: Real Assets
 education: Bachelor of Science (Honours) in Economics & Accountancy (University of Hull, UK)
 professional_qualification: Institute of Chartered Accountants in England and Wales & Malaysian Institute of Certified Public Accountants
 professional_membership: i) Fellow, Institute of Chartered Accountants in England & Wales ii) Member, Malaysian Institute of Certified Public Accountants iii) Member, Malaysian Institute of Accountants
-current_position: i) INE - Sime Darby Properties Berhad ii) Chairman - Audit Committee of Sime Darby Properties Berhad iii) Director - Institute of Corporate Directors Malaysia (ICDM) iv) Board Member - Audit Oversight Board, Malaysia
-previous_position: 2014 - 2019 - Non Executive Director & Audit Committee Chairman of Eco World International, 2016 - 2017 - NINE Director of AMMB Holdings Bhd, 2010 - 2012 - Board member of KWAP, 2005 - 2012 - Board member and Audit Committee Chairman of Putrajaya Corporation, 2003 - 2009 - Chairman of the Financial Reporting Foundation
+current_position: INE (Sime Darby Properties Berhad), Chairman (Audit Committee of Sime Darby Properties Berhad), Director (Institute of Corporate Directors Malaysia (ICDM)), Board Member (Audit Oversight Board, Malaysia)
+previous_position: 2014 - 2019 Non Executive Director & Audit Committee Chairman (Eco World International), 2016 - 2017 NINE Director (AMMB Holdings Bhd), 2010 - 2012 Board member (KWAP), 2005 - 2012 Board member and Audit Committee Chairman (Putrajaya Corporation), 2003 - 2009 Chairman (Financial Reporting Foundation)
 industry_of_previous_position: Financial Services
 skillset1: accounting
 skillset2: financial management
