@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: No
 name_of_investee_co: N.A.
 asset_class: N.A.
-education: MBA; INSEAD, Bachelor of Arts in Law; University of Oxford
+education: MBA; INSEAD, Bachelor of Arts in Law (University of Oxford)
 professional_qualification: Institute of Chartered Accountants in England and Wales and a member of the Malaysian Institute of Accountants
 professional_membership: N.A.
 current_position: (i) Director at Galeri Z, (ii) Non Executive Director at NanoMalaysia Berhad, (iii) Non Executive Director at Balai Seni Nrgara

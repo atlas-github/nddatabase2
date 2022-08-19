@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: No
 name_of_investee_co: Sun Life Malaysia Assurance Bhd, Sun Life Malaysia Takaful Bhd
 asset_class: FIG
-education: Bachelor of Science (Engineering) Degree with Honours; Imperial College London
+education: Bachelor of Science (Engineering) Degree with Honours (Imperial College London)
 professional_qualification: Chartered Insurance Institute of UK (ACII)
 professional_membership: (i) Fellowship of the Chartered Insurance Institute of UK (FCII); (ii) Fellowship of the Malaysian Insurance Institute (FMII)
 current_position: INE- Independent Non-Executive Director 

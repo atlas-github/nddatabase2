@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: Yes
 name_of_investee_co: Malaysia Aviation Group Berhad, Malaysia Airlines Berhad
 asset_class: Infrastructure & Airlines
-education: Master of Business Administration, Golden Gate University, San Francisco, USA
+education: Master of Business Administration (Golden Gate University), San Francisco, USA
 professional_qualification: N.A.
 professional_membership: Member of the Malaysian Institute of Accountants (MIA)
 current_position: (i) Chairman, IJM (ii) Board Member, Grupo Concesionario del Oeste S.A., Argentina (iii) Board Member, Malaysia Aviation Group Berhad and Malaysia Airlines Berhad

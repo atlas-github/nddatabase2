@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: Yes
 name_of_investee_co: M+S Pte Ltd
 asset_class: Real Assets
-education: Bachelor of Science (Honours) in Economics & Accountancy, University of Hull, United Kingdom
+education: Bachelor of Science (Honours) in Economics & Accountancy (University of Hull, UK)
 professional_qualification: Institute of Chartered Accountants in England and Wales & Malaysian Institute of Certified Public Accountants
 professional_membership: i) Fellow, Institute of Chartered Accountants in England & Wales ii) Member, Malaysian Institute of Certified Public Accountants iii) Member, Malaysian Institute of Accountants
 current_position: i) INE - Sime Darby Properties Berhad ii) Chairman - Audit Committee of Sime Darby Properties Berhad iii) Director - Institute of Corporate Directors Malaysia (ICDM) iv) Board Member - Audit Oversight Board, Malaysia

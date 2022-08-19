@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: Yes
 name_of_investee_co: Cement Industries of M'sia, Malaysia Aviation Group Bhd, Malaysia Airlines Bhd
 asset_class: Infrastructure & Airlines
-education: MBA, Cranfield University 
+education: MBA (Cranfield University)
 professional_qualification: Graduate Member of the Australian Institute of Company Directors
 professional_membership: N.A.
 current_position: (i) Board Member, Malaysia Aviation Group Bhd, Malaysia Airlines Bhd, Uniquest Infra Ventures Private Ltd, (ii) Chairman - Cement Industries of Malaysia

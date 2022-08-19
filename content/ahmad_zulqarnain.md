@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: No
 name_of_investee_co: N.A.
 asset_class: N.A.
-education: Bachelor's Degree, Economics - Harvard University
+education: Bachelor's Degree, Economics (Harvard University)
 professional_qualification: N.A.
 professional_membership: N.A.
 current_position: President & Group Chief Executive at Permodalan Nasional Berhad

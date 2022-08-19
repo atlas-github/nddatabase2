@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: Yes
 name_of_investee_co: Sun Life Malaysia Assurance Bhd, Sun Life Malaysia Takaful Bhd
 asset_class: FIG
-education: BSc (Honours) Actuarial Science, City University, London,  Diploma in Actuarial Techniques, Institute of Actuaries, London
+education: BSc (Honours) Actuarial Science (City University, London),  Diploma in Actuarial Techniques, Institute of Actuaries, London
 professional_qualification: N.A.
 professional_membership: N.A.
 current_position: NINE - Non independent non executive director

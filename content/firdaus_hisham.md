@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: No
 name_of_investee_co: N.A.
 asset_class: N.A.
-education: Bachelor of Science (B.Sc.), (Triple Major) Actuarial Science, Finance, Economics - University of Illinois Urbana-Champaign
+education: B.Sc. (Triple Major) Actuarial Science, Finance, Economics (University of Illinois Urbana-Champaign)
 professional_qualification: N.A.
 professional_membership: N.A.
 current_position: Head (Corporate Finance and M&A) at New Energy Division at Tenaga Nasional Berhad

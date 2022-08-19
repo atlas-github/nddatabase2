@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: No
 name_of_investee_co: N.A.
 asset_class: N.A.
-education: Bachelor of Arts in Banking and Finance from the University of Canberra
+education: Bachelor of Arts in Banking and Finance (University of Canberra)
 professional_qualification: CPA Australia
 professional_membership: N.A.
 current_position: (i) INED - Telekom Malaysia Bhd (ii) NINED - Astro Malaysia Holdings Bhd, BSN, Cycle & Carriage Bintang Bhd (iii) Member of Investment Panel - KWSP

@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: No
 name_of_investee_co: N.A.
 asset_class: N.A.
-education: MBA, Management MIT Sloan School of Management, Bachelor of Laws The London School of Economics and Political Science 
+education: MBA, Management MIT Sloan School of Management, Bachelor of Laws (The London School of Economics and Political Science)
 professional_qualification: Chartered Financial Analyst (CFA)
 professional_membership: N.A.
 current_position: Group Director, Corporate Planning & Strategy at DRB-HICOM Berhad

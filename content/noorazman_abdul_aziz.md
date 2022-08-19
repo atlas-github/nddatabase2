@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: No
 name_of_investee_co: Sun Life Malaysia Assurance Bhd, Sun Life Malaysia Takaful Bhd
 asset_class: FIG
-education: Bachelor of Science (Finance); Louisiana State University, USA
+education: Bachelor of Science (Finance) (Louisiana State University)
 professional_qualification: Chartered Institute of Islamic Finance Professionals (CIIF)
 professional_membership: (i) Australian Institute of Company Directors; (ii) Institute of Corporate Directors Malaysia
 current_position: (i) INE- Independent Non-Executive Director & Chairman, (ii) 2020-Present Chairman, UEM Sunrise Berhad​, (iii) 2020-Present Board member, CITOS Digital Berhad, (iv) 2018-Present Board member, UEM Edgenta Berhad​, (ii) 2020-Present Chairman, UEM Sunrise Berhad​, (iii) 2020-Present Board member, CITOS Digital Berhad, (iv) 2018-Present Board member, UEM Edgenta Berhad​

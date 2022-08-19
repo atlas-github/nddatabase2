@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: Yes
 name_of_investee_co: Malaysia Aviation Group Berhad, Malaysia Airlines Berhad
 asset_class: Infrastructure & Airlines
-education: Bachelor of Engineering, Chemical Engineering, University of Adelaide
+education: Bachelor of Engineering, Chemical Engineering (University of Adelaide)
 professional_qualification: N.A.
 professional_membership: N.A.
 current_position: Chairman - Malaysia Aviation Group Berhad, Malaysia Airlines Berhad, GAS Malaysia, DRB-HICOM

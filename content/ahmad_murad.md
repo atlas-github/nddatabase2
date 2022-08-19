@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: Yes
 name_of_investee_co: Cenviro Sdn Bhd
 asset_class: Consumer
-education: B. Engineering (Mechanical), Liverpool University, UK. 1983, 1st Class Honours.
+education: B. Engineering (Mechanical) (Liverpool University, UK) 1983, 1st Class Honours
 professional_qualification: N.A.
 professional_membership: N.A.
 current_position: Independent Director 

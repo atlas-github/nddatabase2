@@ -9,7 +9,7 @@ country_of_residence: Malaysia
 current_khazanah_md: Yes
 name_of_investee_co: Cenviro Sdn Bhd
 asset_class: Consumer
-education: BSc (Hons) in Accounting and Law from the University of Southampton, UK 
+education: BSc (Hons) in Accounting and Law (University of Southampton) 
 professional_qualification: Associate Member of the Chartered Institute of Management Accountants (CIMA), UK
 professional_membership: Associate Member of the Chartered Institute of Management Accountants (CIMA), UK
 current_position: Non independent director
