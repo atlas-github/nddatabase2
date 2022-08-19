@@ -207,7 +207,7 @@
           "
         >
           <a
-            href="mailto:farrah.abidin@khazanah.com.my?cc=sukri.karim@khazanah.com.my&amp;subject=ND Feedback&amp;body=Hi Farrah,"
+            href="mailto:farrah.abidin@khazanah.com.my?cc=sukri.karim@khazanah.com.my;koh.wyhow@khazanah.com.my&amp;subject=ND Feedback&amp;body=Hi Farrah,"
             title="Email us"
             ><img src="/outlook.png" alt="" class="h-6 mx-auto"
           /></a>
