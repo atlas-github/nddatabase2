@@ -7,7 +7,7 @@ nationality: Malaysian
 ethnicity: Malay
 country_of_residence: Malaysia 
 current_khazanah_md: No
-name_of_investee_co: (i) Sun Life Malaysia Assurance Berhad, (ii) Sun Life Malaysia Takaful Berhad
+name_of_investee_co: Sun Life Malaysia Assurance Bhd, Sun Life Malaysia Takaful Bhd
 asset_class: FIG
 education: Bachelor of Science (Finance); Louisiana State University, USA
 professional_qualification: Chartered Institute of Islamic Finance Professionals (CIIF)

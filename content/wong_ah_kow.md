@@ -7,7 +7,7 @@ nationality: Malaysian
 ethnicity: Chinese
 country_of_residence: Malaysia 
 current_khazanah_md: No
-name_of_investee_co: (i) Sun Life Malaysia Assurance Berhad, (ii) Sun Life Malaysia Takaful Berhad
+name_of_investee_co: Sun Life Malaysia Assurance Bhd, Sun Life Malaysia Takaful Bhd
 asset_class: FIG
 education: Bachelor of Science (Engineering) Degree with Honours; Imperial College London
 professional_qualification: Chartered Insurance Institute of UK (ACII)

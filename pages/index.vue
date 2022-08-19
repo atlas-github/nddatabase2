@@ -1,6 +1,6 @@
 <template>
   <div class="bg-cover bg-gray-100 font-roboto">
-    <div class="max-w-[90%] min-h-screen flex justify-center md:mx-auto py-5">
+    <div class="max-w-[85%] min-h-screen flex justify-center mx-auto py-5">
       <main class="w-full">
         <div class="bg-[#479900] bg-cover p-1 rounded-lg text-white">
           <h1 class="text-2xl font-semibold m-1">Nominee Director Database</h1>

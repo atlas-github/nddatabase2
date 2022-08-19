@@ -7,7 +7,7 @@ nationality: Malaysian
 ethnicity: Chinese
 country_of_residence: Malaysia
 current_khazanah_md: Yes
-name_of_investee_co: (i) Malaysia Airlines Berhad (ii) Malaysia Aviation Group Berhad
+name_of_investee_co: Malaysia Airlines Berhad, Malaysia Aviation Group Berhad
 asset_class: Infrastructure & Airlines
 education: Bachelor of Commerce, Canterbury University
 professional_qualification: N.A.
