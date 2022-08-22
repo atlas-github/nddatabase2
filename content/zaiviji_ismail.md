@@ -1,6 +1,6 @@
 ---
 name: Zaiviji Ismail
-profile_pic: https://www.uniquestinfra.com/assets/images/management/zaviji.png
+profile_pic: https://img.aviationpros.com/files/base/cygnus/cavc/image/2022/03/1x1/Zaiviji_Ismail.622bc6f97bce9.png
 year_of_birth: 1956
 gender: Male
 nationality: Malaysian 
